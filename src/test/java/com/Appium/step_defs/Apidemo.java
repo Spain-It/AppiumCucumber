@@ -4,7 +4,6 @@ import com.Appium.pages.View;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
-import java.net.MalformedURLException;
 
 public class Apidemo {
 
